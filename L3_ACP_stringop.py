@@ -1,0 +1,9 @@
+str1="Congratulations"
+print("ACP_stringop")
+print(len(str1))
+print(str1.upper())
+print(str1.lower())
+print(str1.replace("C","c"))
+print(str1.split("l"))
+print(str1[6])
+print(str1[-1::-3])
